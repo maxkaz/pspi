@@ -36,6 +36,7 @@ Strona z linkami do projektów na zaliczenie z przedmiotu „Techniki Interneto
    [Dyniowe inspiracje kulinarne](http://slid.es/mtyde/dyniowe-inspiracje-kulinarne),
    [Samouczek HTML](http://jsbin.com/dirar/31/edit?html,output).
 1. Maciej Wódkowski.
+   [Najgorsze skrzyżowania w 3mieście](http://slides.com/maxkaz/najgorsze-skrzyzowania-w-trojmiescie).
 
 
 ### Użyteczne narzędzia
